@@ -1,62 +1,66 @@
 # Profile
 # HEESEONG JANG
 wkdgmltjd1865@gmail.com / 82+ 10-7387-3824
-
----
-
 ## TECHNICAL SKILLS
 
 ---
 
-- **Front-end**  HTML**,** React
-- **Back-end** Java, Python, Spring boot
-- **ETC** Git & Github & Gitlab, SVN, Jenkins, Hudson
+- **Back-end** Java, Kotlin, Python
+- **ETC** Git, MySQL, Oracle, MariaDB, Altibase
 
 ## COMPETENCIES
 
 ---
 
-- CI/CD 운영 및 적용 경험
-- 인터넷 전화 사업자의 전화교환설비 중 SSW(SowftSwitch) 기능 개발 경험
-- 통신 장비 개별 관리 시스템(Element Management System) 기능 개발 경험
+- VoIP기반의 전화 교환 시스템(SowftSwitch) 데이터 제공 서비스 개발
+- 통신 장비 개별 관리 시스템 기능 개발
+- 그룹 영상 통화 서비스(SKT MeetUs) Emulator 및 성능 계측 기능 개발
 - Database Migration( oracle → altibase )
+- CI/CD 운영 및 적용 경험
 
 ## EXPERIENCE
 
 ---
 
-- 아이페이지온, 자바 개발자 (2018.06 - CURRENT) - 2년 6개월
-- 안랩 Software QA 연수생 (계약직) (2015.08 - 2016.02) - 6개월
+- 아이페이지온, 서버 엔지니어 (2018.06 - CURRENT) - 3년 1개월
+- 안랩 Software QA 연수생 (2015.08 - 2016.02) - 6개월
 
 ## PROJECTS
 
 ---
 
-인터넷 전화 사업자의 전화교환설비 중 SSW(SowftSwitch)
+### VoIP기반의 **전화 교환 시스템(SowftSwitch)**
 
 - 솔루션 고도화
-    - 개발 언어 : Java(Oracle)
-    - 적용 솔루션 : Jenkins, SVN
-    - 주요 성과 : 프로젝트 솔루션 고도화를 통하여 신규 사업 확대, 통합 화면 개발
-- Altibase DB  구축 및 운영
-    - 주요 성과 : 이중화/이원화 구조 및 replication을 이용한 mirroring구축, Database migration
+    - **Tech Stack** : Java
+    - **Summary** : 프로젝트 솔루션 고도화를 통하여 신규 사업 확대 및 통합 화면 기능 개발
+- DB(Altibase, Oarcle, MariaDB) 운영
+    - **Summary** : Oracle에서 Altibase로 migration
 
-통신 장비 개별 관리 시스템(Element Management System)
+### **통신 장비 개별 관리 시스템**
 
-- 가입자 인터페이스(Customer Support System Interface)
-    - 개발 언어 : Java(Altibase)
-    - 적용 솔루션 : Gitlab, Netty
-    - 주요 성과 : 서비스(PTT, FMC, GIS) 가입을 위한 인터페이스 개발
+- 가입자 관리 인터페이스(Customer Support System Interface)
+    - **Tech Stack** : Java, Unirest, Netty, MQTT
+    - **Summary** : 가입자 연동 데이터 처리 기능 개발
+- 유무선 융합 서비스(FMC_Fixed Mobile Convergence) 인터페이스
+    - **Tech Stack** : Java, Javalin, Netty, MQTT
+    - **Summary** : 유무선 융합 서비스 연동을 위한 RESTful API 개발
+- CLI 연동 모듈
+    - **Tech Stack** : Java, Javalin, Unirest, MQTT
+    - **Summary**: CLI 기능 제공을 위한 RESTful API 개발
 - 프로세스 관리 스크립트
-    - 개발 언어 : Python
-    - 적용 솔루션 : Gitlab
-    - 주요 성과 : 해당 프로세스 구동, 정지, 상태 확인 가능
+    - **Tech Stack** : Python
+    - **Summary** : 해당 프로세스 구동, 정지, 상태 확인 기능 개발
 - 이력 삭제 프로세스
-    - 개발 언어 : Java(Spring boot, JPA, Altibase)
-    - 적용 솔루션 : Gitlab
-    - 주요 성과 : 이력 삭제 프로세스 개발
-- Altibase DB  구축 및 운영
-    - 주요 성과 : 이중화/이원화 구조 및 replication을 이용한 mirroring구축, Database migration
+    - **Tech Stack** : Java(Spring boot, JPA)
+    - **Summary** : 스케줄링을 통한 이력 삭제 기능 개발
+- Altibase DB 구축 및 운영
+    - **Summary** : 이중화/이원화 구조 및 replication을 이용한 DB구축 및 운영
+
+### 그룹 영상 통화 서비스(MeetUs) **Emulator 개발**
+
+- **Tech Stack** : Java(RxJava), Unirest, Netty
+- **Summary** : 호 처리 에뮬레이터 및 호 성능 계측 기능 개발
 
 ## LICENCES & CERTIFICATIONS
 
