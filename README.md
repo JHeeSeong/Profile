@@ -1,12 +1,14 @@
 # Profile
 # HEESEONG JANG
 wkdgmltjd1865@gmail.com / 82+ 10-7387-3824
+
 ## TECHNICAL SKILLS
 
 ---
 
 - **Back-end** Java, Kotlin, Python
 - **ETC** Git, MySQL, Oracle, MariaDB, Altibase
+
 
 ## COMPETENCIES
 
@@ -18,12 +20,14 @@ wkdgmltjd1865@gmail.com / 82+ 10-7387-3824
 - Database Migration( oracle → altibase )
 - CI/CD 운영 및 적용 경험
 
+
 ## EXPERIENCE
 
 ---
 
 - 아이페이지온, 서버 엔지니어 (2018.06 - CURRENT) - 3년 1개월
 - 안랩 Software QA 연수생 (2015.08 - 2016.02) - 6개월
+
 
 ## PROJECTS
 
@@ -61,6 +65,7 @@ wkdgmltjd1865@gmail.com / 82+ 10-7387-3824
 
 - **Tech Stack** : Java(RxJava), Unirest, Netty
 - **Summary** : 호 처리 에뮬레이터 및 호 성능 계측 기능 개발
+
 
 ## LICENCES & CERTIFICATIONS
 
